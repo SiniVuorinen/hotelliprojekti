@@ -1,0 +1,10 @@
+# Visual Studio -väliaikaiset
+.vs/
+bin/
+obj/
+Debug/
+Release/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
